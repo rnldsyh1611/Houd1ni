@@ -14,4 +14,4 @@
 
 ## 📫 How to reach me:
 - Email: [renaldiansyah16@gmail.com]
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/renaldiansyah16/)

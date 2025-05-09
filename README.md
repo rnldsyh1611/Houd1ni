@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/6191494a-88e4-41a2-a14c-aee8a7a1f6be)
+<p align="center">
+  <img src="[https://media.giphy.com/media/d8J0rs2rj3rXxzwY5E/giphy.gif](https://github.com/user-attachments/assets/6191494a-88e4-41a2-a14c-aee8a7a1f6be)" style="width:100%;" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Houd1ni</h1>
 <h3 align="center">🏴‍☠️ Penetration Tester | Bug Hunter | Red Team Enthusiast</h3>
